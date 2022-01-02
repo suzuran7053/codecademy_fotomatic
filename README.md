@@ -4,4 +4,4 @@ In this project, I fixed all issues with alignment for this fictional website fo
 This is a final priject of a chapter "CSS Flex."
 
 **Design spec**
-<img src="fotomatic_spec_landing.png" alt="">
+<img src="./fotomatic_spec_landing.png" alt="">
